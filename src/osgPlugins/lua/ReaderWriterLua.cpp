@@ -10,7 +10,7 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * OpenSceneGraph Public License for more details.
 */
-
+/*
 #include <osgDB/FileNameUtils>
 #include <osgDB/FileUtils>
 #include <osgDB/Registry>
@@ -153,4 +153,4 @@ class ReaderWriterLua : public osgDB::ReaderWriter
 
 // now register with Registry to instantiate the above
 // reader/writer.
-REGISTER_OSGPLUGIN(lua, ReaderWriterLua)
+REGISTER_OSGPLUGIN(lua, ReaderWriterLua)*/
